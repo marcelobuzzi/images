@@ -5,11 +5,9 @@ $autoload = array(
   'packages'  => array(),
   'libraries' => array(
     'form_validation',
-    'database',
     'cart',
     'pagination',
     'email',
-    'image_lib',
   ),
   'drivers'   => array(),
   'helper'    => array(
@@ -19,7 +17,5 @@ $autoload = array(
   ),
   'config'    => array(),
   'language'  => array(),
-  'model'     => array(
-    'MImagenes',
-  ),
+  'model'     => array(),
 );
